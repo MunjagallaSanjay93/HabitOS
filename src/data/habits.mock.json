@@ -1,0 +1,25 @@
+{
+  "habits": [
+    {
+      "name": "Gym",
+      "type": "daily",
+      "goal": 25,
+      "completed": 18,
+      "streak": 5
+    },
+    {
+      "name": "Deep Work",
+      "type": "daily",
+      "goal": 22,
+      "completed": 17,
+      "streak": 12
+    },
+    {
+      "name": "Read 30m",
+      "type": "daily",
+      "goal": 28,
+      "completed": 21,
+      "streak": 4
+    }
+  ]
+}
